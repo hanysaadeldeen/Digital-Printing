@@ -26,35 +26,35 @@
         <p class="text-secondary font-normal text-sm mb-6">تابعنا</p>
         <div class="flex items-center justify-between gap-4 md:gap-6">
           <div class="bg-primary rounded-full p-1.5 text-center">
-            <a href="#" target="_blank">
-
+            
+            <a href="#" target="_blank"
+            aria-label="Facebook"
+            
+            >
               <BxFacebook class="text-white text-2xl font-bold"/>
             </a>
-
           </div>
           <div class="bg-primary rounded-full p-1.5 text-center">
-            <a href="#" target="_blank">
-
+            <a href="#" target="_blank"
+            aria-label="Instagram"
+            >
               <AkInstagramFill class="text-white text-2xl font-bold"/>
-            
             </a>
-
           </div>
           <div class="bg-primary rounded-full p-1.5 text-center">
-            <a href="#" target="_blank">
-
+            <a href="#" target="_blank"
+            aria-label="اتصل بنا عبر واتساب"
+            >
               <AkWhatsappFill class="text-white text-2xl font-bold"/>
               
             </a>
-
           </div>
           <div class="bg-primary rounded-full p-1.5 text-center">
-            <a href="#" target="_blank">
-
+            <a href="#" target="_blank" name="LinkedIn"
+            aria-label="LinkedIn"
+            >
               <AkLinkedInFill class="text-white text-2xl font-bold"/>
-             
             </a>
-
           </div>
         </div>
       </div>
