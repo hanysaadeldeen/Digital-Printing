@@ -1,7 +1,7 @@
 <template>
-    <div>
+    <div class="h-full flex flex-col justify-between">
         <div class="w-full mb-10 overflow-hidden rounded-2xl">
-            <img :src="img" class="w-full  object-container hover:scale-125 transition-all duration-300 ease-in-out" :alt="title" >
+            <img :src="img" class="w-full  object-container hover:scale-125 transition-all duration-300 ease-in-out" :alt="title" loading="lazy" >
         </div>
         <div class="info space-y-4 mb-8">
             <h1 class="text-2xl font-bold">{{ title }}</h1>
