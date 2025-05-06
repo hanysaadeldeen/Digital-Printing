@@ -8,7 +8,7 @@
 
 <script setup lang="ts">
 import ProductCard from './Utils/ProductCard.vue';
-import product from "../assets/img/product.svg"
+import product from "../assets/img/product.webp"
 
 interface Product {
     img:string
