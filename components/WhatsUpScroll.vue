@@ -1,5 +1,4 @@
 <template>
-  "اطبع إبداعك الآن"
   <a :href="`https://wa.me/966508283283?text=اطبع إبداعك الآن`" target="_blank">
     <span
       class="fixed  bottom-28 right-10 text-white p-4 rounded-full shadow-lg transition duration-300 z-50 ease-in-out size-12 md:w-14 md:h-14 flex justify-center items-center  group  animate-fadeIn bg-[#25D366] hover:bg-green-600">

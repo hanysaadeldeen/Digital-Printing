@@ -154,7 +154,7 @@ const Products = {
                 img: PrintCollateralsBOne
             },
             {
-                title: 'بروش 1',
+                title: 'بروش ',
                 img: PrintCollateralsBTwo
             },
             {
@@ -174,41 +174,43 @@ const Products = {
                 img: PrintCollateralsBSix
             },
             {
-                title: 'كارت تكتشر 2',
+                title: 'كارت تكتشر ',
                 img: PrintCollaterals2Bone
             },
             {
-                title: '  تاج ورقى3 ',
+                title: '  تاج ورقى ',
                 img: PrintCollaterals2Btwo
+            },
+
+            {
+                title: 'كارت كوتد ',
+                img: PrintCollaterals2Bfour
             },
             {
                 title: 'كارت شخصى أيس',
                 img: PrintCollaterals2Bthree
             },
             {
-                title: 'كارت كوتد 2',
-                img: PrintCollaterals2Bfour
+                title: 'الخطابات',
+                img: PrintCollaterals2Bsix
             },
             {
                 title: 'الملفات (جيب أبيض )',
                 img: PrintCollaterals2Bfive
             },
-            {
-                title: 'الخطابات',
-                img: PrintCollaterals2Bsix
-            },
+
         ],
         [
             {
-                title: "أساور ورقية2",
+                title: "أساور ورقية",
                 img: PrintCollateralsYOne
             },
             {
-                title: "بروش 3",
+                title: "بروش ",
                 img: PrintCollateralsYTwo
             },
             {
-                title: "تاج نيم2",
+                title: "تاج نيم",
                 img: PrintCollateralsYThree
             },
             {
@@ -223,21 +225,22 @@ const Products = {
                 title: 'فلير a4 ',
                 img: PrintCollateralsYSix
             },
-            {
-                title: "تاج ورقى 2",
-                img: PrintCollaterals2Yone
-            },
+
             {
                 title: "كارت تكتشر",
                 img: PrintCollaterals2YTwo
+            }, {
+                title: "تاج ورقى ",
+                img: PrintCollaterals2Yone
+            },
+
+            {
+                title: 'كارت كوتد',
+                img: PrintCollaterals2YFour
             },
             {
                 title: "كارت شخصى آيس",
                 img: PrintCollaterals2YThree
-            },
-            {
-                title: 'كارت كوتد',
-                img: PrintCollaterals2YFour
             },
             {
                 title: "الخطابات",
@@ -250,7 +253,19 @@ const Products = {
         ],
         [
             {
-                title: "بوست كارد 1",
+                title: 'أساور ورقية ',
+                img: PrintCollateralsWFive
+            },
+            {
+                title: "بروش  ",
+                img: PrintCollateralsWFour
+            },
+            {
+                title: "تاج نيم ",
+                img: PrintCollateralsWSix
+            },
+            {
+                title: "بوست كارد ",
                 img: PrintCollateralsWOne
             },
             {
@@ -262,41 +277,28 @@ const Products = {
                 img: PrintCollateralsWThree
             },
             {
-                title: "بروش 2 ",
-                img: PrintCollateralsWFour
-            },
-            {
-                title: 'أساور ورقية 1',
-                img: PrintCollateralsWFive
-            },
-            {
-                title: "تاج نيم 1",
-                img: PrintCollateralsWSix
-            },
-
-            {
-                title: 'كارت تكتشر1 ',
+                title: 'كارت تكتشر ',
                 img: PrintCollaterals2WOne
             },
             {
-                title: 'تاج ورقى 1',
+                title: 'تاج ورقى ',
                 img: PrintCollaterals2WTwo
+            },
+            {
+                title: ' كارت كوتد  ',
+                img: PrintCollaterals2WSix
             },
             {
                 title: 'كارت ايس',
                 img: PrintCollaterals2WThree
             },
             {
-                title: ' الخطابات 1   ',
+                title: ' الخطابات    ',
                 img: PrintCollaterals2WFour
             },
             {
                 title: 'الملفات',
                 img: PrintCollaterals2WFive
-            },
-            {
-                title: ' كارت كوتد 3 ',
-                img: PrintCollaterals2WSix
             },
         ]
     ],
@@ -307,17 +309,18 @@ const Products = {
                 img: DiversePrintMaterialsBOne
             },
             {
-                title: 'شرائط2',
+                title: 'الاختام',
+                img: DiversePrintMaterialsBFour
+            },
+            {
+                title: 'شرائط',
                 img: DiversePrintMaterialsBTwo
             },
             {
-                title: 'بطاقة تعريف1',
+                title: 'بطاقة تعريف',
                 img: DiversePrintMaterialsBThree
             },
-            {
-                title: 'الاختام1',
-                img: DiversePrintMaterialsBFour
-            },
+
         ],
         [
             {
@@ -325,17 +328,18 @@ const Products = {
                 img: DiversePrintMaterialsYOne
             },
             {
-                title: 'اختام3',
+                title: 'اختام',
                 img: DiversePrintMaterialsYTwo
             },
             {
-                title: 'بطاقة تعريف 2',
-                img: DiversePrintMaterialsYThree
-            },
-            {
-                title: '1شرائط',
+                title: 'شرائط',
                 img: DiversePrintMaterialsYFour
             },
+            {
+                title: 'بطاقة تعريف ',
+                img: DiversePrintMaterialsYThree
+            },
+
 
         ],
         [
@@ -344,144 +348,154 @@ const Products = {
                 img: DiversePrintMaterialsWOne
             },
             {
-                title: 'بطاقة تعريف3',
-                img: DiversePrintMaterialsWTwo
-            },
-            {
-                title: 'اختام2',
+                title: 'اختام',
                 img: DiversePrintMaterialsWThree
             },
             {
-                title: 'شرائط3',
+                title: 'شرائط',
                 img: DiversePrintMaterialsWFour
             },
+            {
+                title: 'بطاقة تعريف',
+                img: DiversePrintMaterialsWTwo
+            },
+
+
         ]
     ],
-
     PackagingPaperBags: [
         [
             {
-                title: 'ورق تغليف 1',
+                title: 'ورق تغليف ',
                 img: PackagingPaperBagsBOne
             },
             {
-                title: 'اكياس ورقية 1',
+                title: 'اكياس ورقية ',
                 img: PackagingPaperBagsBTwo
             },
             {
-                title: 'ورق طاولة 1',
+                title: 'ورق طاولة ',
                 img: PackagingPaperBagsBThree
             },
         ],
         [
+
             {
-                title: 'اكياس ورقية 3',
-                img: PackagingPaperBagsYOne
-            },
-            {
-                title: 'ورق تغليف 2',
+                title: 'ورق تغليف ',
                 img: PackagingPaperBagsYTwo
             },
             {
-                title: 'ورق طاولة 2',
+                title: 'اكياس ورقية ',
+                img: PackagingPaperBagsYOne
+            },
+            {
+                title: 'ورق طاولة ',
                 img: PackagingPaperBagsYThree
             }
         ],
         [
+
+
             {
-                title: 'ورق تغليف 3',
+                title: 'ورق تغليف ',
                 img: PackagingPaperBagsWOne
             },
             {
-                title: 'اكياس ورقية 2',
+                title: 'اكياس ورقية ',
                 img: PackagingPaperBagsWTwo
             },
             {
-                title: 'ورق طاولة 3',
+                title: 'ورق طاولة ',
                 img: PackagingPaperBagsWThree
             },
         ]
     ],
-
     Billboards: [
         [
             {
-                title: 'فوركس 3',
+                title: 'فوركس ',
                 img: BillboardDesignsBone
             },
             {
-                title: 'بوب اب ستاند 3',
+                title: 'بوب اب ستاند ',
                 img: BillboardDesignsBtwo
             },
             {
-                title: '1أكريلك',
+                title: 'أكريلك',
                 img: BillboardDesignsBthree
             },
             {
-                title: 'رول اب 3',
+                title: 'رول اب ',
                 img: BillboardDesignsBfour
             },
             {
-                title: 'كانفاس 3',
+                title: 'كانفاس ',
                 img: BillboardDesignsBfive
             },
             {
-                title: 'بوسترز 3',
+                title: 'بوسترز ',
                 img: BillboardDesignsBsix
             },
         ],
         [
             {
-                title: 'كانفاس 2',
-                img: BillboardDesignsYone
-            },
-            {
-                title: 'أكريلك2',
-                img: BillboardDesignsYTwo
-            },
-            {
-                title: 'بوسترز 2',
-                img: BillboardDesignsYThree
-            },
-            {
-                title: 'فوركس 2',
+                title: 'فوركس ',
                 img: BillboardDesignsYFour
             },
             {
-                title: 'بوب اب ستاند2',
+                title: 'بوب اب ستاند',
                 img: BillboardDesignsYFive
             },
             {
-                title: 'رول اب 2',
+                title: 'أكريلك',
+                img: BillboardDesignsYTwo
+            },
+            {
+                title: 'رول اب ',
                 img: BillboardDesignsYSix
             },
+            {
+                title: 'كانفاس ',
+                img: BillboardDesignsYone
+            },
 
+            {
+                title: 'بوسترز ',
+                img: BillboardDesignsYThree
+            },
         ],
         [
             {
-                title: 'بوسترز 1',
-                img: BillboardDesignsWOne
-            },
-            {
-                title: 'كانفاس 1',
-                img: BillboardDesignsWTwo
-            },
-            {
-                title: 'فوركس 1',
-                img: BillboardDesignsWThree
-            },
-            {
-                title: 'رول اب 1',
+                title: 'رول اب ',
                 img: BillboardDesignsWFour
             },
             {
-                title: 'بوب اب ستاند 1',
-                img: BillboardDesignsWFive
+                title: 'كانفاس ',
+                img: BillboardDesignsWTwo
             },
             {
-                title: 'أكريلك3',
+                title: 'بوسترز ',
+                img: BillboardDesignsWOne
+            },
+
+            {
+                title: 'فوركس ',
+                img: BillboardDesignsWThree
+            },
+            {
+                title: 'بوب اب ستاند ',
+                img: BillboardDesignsWFive
+            },
+
+            {
+                title: 'أكريلك',
                 img: BillboardDesignsWSix
             },
+
+
+
+
+
         ]
     ],
 }
