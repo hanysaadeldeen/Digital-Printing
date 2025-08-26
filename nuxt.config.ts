@@ -5,7 +5,7 @@ export default defineNuxtConfig({
   css: ["~/assets/css/main.css"],
 
   app: {
-    // baseURL: "/printing/",
+    baseURL: "/printing/",
     head: {
       htmlAttrs: {
         lang: 'ar' 

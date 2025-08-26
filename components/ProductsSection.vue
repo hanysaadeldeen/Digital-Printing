@@ -174,13 +174,14 @@ const Products = {
                 img: PrintCollateralsBSix
             },
             {
-                title: 'كارت تكتشر ',
-                img: PrintCollaterals2Bone
-            },
-            {
                 title: '  تاج ورقى ',
                 img: PrintCollaterals2Btwo
             },
+            {
+                title: 'كارت تكتشر ',
+                img: PrintCollaterals2Bone
+            },
+
 
             {
                 title: 'كارت كوتد ',
@@ -225,13 +226,13 @@ const Products = {
                 title: 'فلير a4 ',
                 img: PrintCollateralsYSix
             },
-
+            {
+                title: "تاج ورقى ",
+                img: PrintCollaterals2Yone
+            },
             {
                 title: "كارت تكتشر",
                 img: PrintCollaterals2YTwo
-            }, {
-                title: "تاج ورقى ",
-                img: PrintCollaterals2Yone
             },
 
             {
@@ -277,13 +278,14 @@ const Products = {
                 img: PrintCollateralsWThree
             },
             {
-                title: 'كارت تكتشر ',
-                img: PrintCollaterals2WOne
-            },
-            {
                 title: 'تاج ورقى ',
                 img: PrintCollaterals2WTwo
             },
+            {
+                title: 'كارت تكتشر ',
+                img: PrintCollaterals2WOne
+            },
+
             {
                 title: ' كارت كوتد  ',
                 img: PrintCollaterals2WSix
